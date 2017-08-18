@@ -1,0 +1,12 @@
+[package]
+name = "rustconf-2017"
+version = "0.1.0"
+authors = ["DebugSteven <debugsteven@gmail.com>"]
+
+[dependencies]
+pick-one = "1.0.1"
+motivations = "1.1.2"
+
+[dependencies.pencil]
+git = "https://github.com/fengsp/pencil.git"
+default-features = false
